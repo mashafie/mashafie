@@ -9,6 +9,3 @@ Hi, I'm Mohamed!
 
  <h2>👨‍💻 Data Projects:</h2>
 
-- 
-- <b>[Song classifier using Audio data](https://github.com/mashafie/Classify-Song-Genres-using-Audio-Data)</b>
-- <b>[Predicting Credit Card Approvals using Machine Learning](https://github.com/mashafie/Predicting-Credit-Card-Approvals)</b>
