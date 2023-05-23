@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+Hi, I'm Mohamed!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
-<!--
-**mashafie/mashafie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">I’m currently working on building data projects to start my career in data engineering 🔨</h3>
 
-Here are some ideas to get you started:
+ <h2>👨‍💻 Data Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 
+- <b>[Song classifier using Audio data](https://github.com/mashafie/Classify-Song-Genres-using-Audio-Data)</b>
+- <b>[Predicting Credit Card Approvals using Machine Learning](https://github.com/mashafie/Predicting-Credit-Card-Approvals)</b>
