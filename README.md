@@ -5,11 +5,12 @@ Hi, welcome to my profile!
 	</a>
 </h1>
 
-<h3 align="center">I'm a tech enthusiast with a keen interest in Cloud and Data 💻🔨</h3>
+<h3 align="center">I'm a tech enthusiast with a keen interest in Data and Cloud 💻🔨</h3>
 
  <h2>👨‍💻 Projects:</h2>
  
- 
+ - <b>Data Engineering Projects</b>
+   - [Automated AWS ETL Pipeline and Data Visualisation for Multibranch Sales Data](https://github.com/mashafie/AWS-ETL-Pipeline-and-Data-Visualisation-for-Multibranch-Sales-Data)
 - <b>Data Science Projects</b>
   - [Song classifier using Audio data](https://github.com/mashafie/Classify-Song-Genres-using-Audio-Data)
   - [Predicting Credit Card Approvals using Machine Learning](https://github.com/mashafie/Predicting-Credit-Card-Approvals)
