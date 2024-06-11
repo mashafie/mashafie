@@ -5,7 +5,7 @@ Hi, welcome to my profile!
 	</a>
 </h1>
 
-<h3 align="center">I'm a tech enthusiast with a keen interest in Data and Cloud 💻🔨</h3>
+<h3 align="center">I'm a tech enthusiast with a keen interest in Software Engineering, Data and Cloud Computing 💻🔨</h3>
 
  <h2>👨‍💻 Projects:</h2>
  
